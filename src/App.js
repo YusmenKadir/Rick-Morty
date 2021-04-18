@@ -77,7 +77,6 @@ const App = () => {
                 <p>{`Name: ${data.name}`}</p>
                 <p>{`ID: ${data.id}`}</p>
                 <p>{`Gender: ${data.gender}`}</p>
-                <p>{`ID: ${data.id}`}</p>
                 <p>{`Species: ${data.species}`}</p>
                 <p>{`Status: ${data.status}`}</p>
               </div>
